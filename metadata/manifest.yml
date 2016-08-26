@@ -2,7 +2,7 @@ Name: scala
 Cartridge-Short-Name: SCALA
 Display-Name: scala Cartridge
 Description: "A scala cartridge"
-Version: '0.6.3'
+Version: '0.6.4'
 License: "MIT"
 Vendor: google
 Cartridge-Version: 0.0.1

@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-VERSION=2.10.2
-SBT_VERSION=0.12.4
+VERSION=2.11.8
+SBT_VERSION=0.13.12
 
 cd ${OPENSHIFT_DATA_DIR}
 
